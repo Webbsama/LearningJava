@@ -1,0 +1,37 @@
+package LearningJava;
+
+public class MyFirstClass {
+
+	public static void main(String[] args) {
+		
+		// How to comment on things
+		
+		// Use system.out to tell Java what it is doing with the code
+		// println is short for print line
+		System.out.println("Hello World!");
+		
+		/* This will comment out 
+		 multiple lines
+		 if you need a longer comment */
+		
+		// Data types
+		
+		//strings
+		System.out.println("My name is Samantha.");
+		
+		//numbers
+		System.out.print(6);
+		
+		//Line break
+		System.out.println("\n");
+		
+		
+		//Basic mathematics operations
+		
+		System.out.println(24 % 8);
+		
+		
+
+	}
+
+}
