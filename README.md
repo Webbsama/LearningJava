@@ -1,4 +1,4 @@
- Overview
+  Overview
 
 So I was originally trying to learn about Java. This ended up being a crash course in how to use Eclipse IDE. 
 I also learned about working with Git in Eclipse IDE. 
@@ -9,7 +9,7 @@ I wanted to create a program that stored login credentials.
 
 Here is my walk through of the code and Eclipse IDE. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[My Video](https://youtu.be/JUETX-I-urs)
 
 # Development Environment
 
@@ -18,6 +18,7 @@ I primarily used Eclipse IDE as my work environment. I also worked on it a bit i
 # Useful Websites
 
 - [Vogella](https://www.vogella.com/tutorials/Eclipse/article.html)
+- [DZone](https://dzone.com/articles/how-to-configure-git-in-eclipse-ide)
 
 # Future Work
 
